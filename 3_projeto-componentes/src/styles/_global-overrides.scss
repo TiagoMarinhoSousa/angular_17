@@ -1,0 +1,9 @@
+app-card-button-cancel .card-cancel-button {
+  background-color: red !important;
+}
+
+//Alteração feita globalmente em todos os componentes <mat-slider> da biblioteca Material
+//afetando a cor da barra de progresso já percorrida
+// .mdc-slider__track--active_fill {
+//   border-color: pink !important;
+// }
